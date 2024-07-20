@@ -2,9 +2,9 @@
 1. Clone the project
 2. Run `npm i` to install all the dependencies
 3. Run `npx playwright test` to execute the tests
-4. Run `npx playwright test src/tests/example.spec.js` to execute a single test
+4. Run `npx playwright test src/testcases/example/example.spec.js` to execute a single test
 5. Run test in ui mode `npx playwright test --ui`
-6. Show reporting npx `playwright show-report`
+6. Show reporting npx `npx playwright show-report`
 
 
 
