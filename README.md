@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Unravel-Project_unravel-qa&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Unravel-Project_unravel-qa)
+
 # How to Start
 1. Clone the project
 2. Run `npm i` to install all the dependencies
